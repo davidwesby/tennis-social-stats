@@ -1,0 +1,52 @@
+date,location,team 1 player 1,team 1 player 2,team 2 player 1,team 2 player 2,team 1 set 1,team 2 set 1,team 1 set 2,team 2 set 2,team 1 set 3,team 2 set 3,winning team
+16/06/2020,Wreningham,Guy,Toby Peres,Tom,Jack,6,1,6,1,,,1
+16/06/2020,Wreningham,Guy,,Tom,,8,1,,,,,1
+16/06/2020,Wreningham,Guy,,Jack,,10,0,,,,,1
+16/06/2020,Wreningham,Tom,,Jack,,3,11,,,,,2
+20/06/2020,Wreningham,Guy,Toby Peres,Jack,Dave,6,3,6,3,,,1
+20/06/2020,Wreningham,Guy,,Dave,,4,1,,,,,1
+20/06/2020,Wreningham,Guy,,Jack,,2,1,,,,,1
+20/06/2020,Wreningham,Jack,,Dave,,0,4,,,,,2
+22/06/2020,Wreningham,Guy,,Tom,,2,3,,,,,2
+22/06/2020,Wreningham,Guy,,Jack,,6,3,,,,,1
+22/06/2020,Wreningham,Tom,,Jack,,8,7,,,,,1
+29/06/2020,Eaton,Dave,Jack,Guy,Tom,3,6,4,6,,,2
+29/06/2020,Eaton,Guy,Jack,Tom,Dave,6,2,,,,,1
+29/06/2020,Eaton,Guy,Dave,Tom,Jack,6,1,,,,,1
+28/07/2020,Wreningham,Guy,,Hamish Trower,,6,0,6,4,,,1
+11/08/2020,Eaton,Dave,Hamish,Tom,Guy,2,6,7,5,2,6,2
+15/08/2020,Eaton,Guy,Elyse,Dave,Martha,6,3,,,,,1
+22/08/2020,Eaton,Dave,Hamish,Tom,Will,4,6,6,3,6,1,1
+01/08/2020,Eaton,Guy,,Tom,Jack,6,1,,,,,1
+10/10/2020,Wreningham,Guy,,Craven,,10,2,10,6,,,1
+01/10/2020,Eaton,Guy,,Joel,,6,0,6,4,,,1
+03/10/2020,Eaton,Dave,Geraldine,Guy,Joel,6,3,6,2,,,1
+06/10/2020,Eaton,Guy,,Dave,,10,5,,,,,1
+13/10/2020,Eaton,Guy,Will Sanders,Dave,Joel,6,2,6,3,,,1
+18/10/2020,Eaton,Dave,Hamish,Mikey,Will Sanders,5,6,,,,,2
+18/10/2020,Eaton,Dave,Hamish,Guy,Macnab,4,6,,,,,2
+18/10/2020,Eaton,Dave,Hamish,Joel,Conrad,3,6,,,,,2
+18/10/2020,Eaton,Guy,Macnab,Joel,Conrad,5,7,,,,,2
+18/10/2020,Eaton,Guy,Macnab,Mikey,,4,6,,,,,2
+18/10/2020,Eaton,Joel,Conrad,Mikey,Will Sanders,1,6,,,,,2
+25/10/2020,Eaton,Guy,Will Sanders,Dave,Joel,6,7,6,2,6,3,1
+30/10/2020,Eaton,Guy,Joel,Dave,Mikey,6,0,1,6,7,6,1
+01/11/2020,Eaton,Dave,,Joel,,4,2,,,,,1
+01/11/2020,Eaton,Dave,,Guy,,4,1,,,,,1
+02/12/2020,Eaton,Dave,Will Perkin,Guy,Will Sanders,6,4,,,,,1
+06/12/2020,Eaton,Dave,Joel,Guy,Will Sanders,4,6,2,6,,,2
+12/12/2020,Waterloo,Dave,Guy,Will Perkin,Tom,5,6,,,,,2
+16/12/2020,Eaton,Dave,Tom,Will Perkin,Jack,6,4,,,,,1
+19/12/2020,Eaton,Dave,Will Perkin,Guy,Jack,3,6,6,1,1,0,1
+24/12/2020,Eaton,Dave,Joel,Guy,Hamish,2,6,,,,,2
+24/12/2020,Eaton,Dave,Joel,Tom,Will Sanders,6,2,,,,,1
+24/12/2020,Eaton,Dave,Joel,Jack,Will Perkin,2,6,,,,,2
+24/12/2020,Eaton,Will Sanders,Tom,Guy,Hamish,0,6,,,,,2
+24/12/2020,Eaton,Jack,Will Perkin,Guy,Hamish,7,6,,,,,1
+24/12/2020,Eaton,Will Sanders,Tom,Will Perkin,Jack,2,6,,,,,2
+27/12/2020,Eaton,Dave,,Jack,,6,2,,,,,1
+27/12/2020,Eaton,Guy,,Will Perkin,,6,4,,,,,1
+29/12/2020,Eaton,Dave,,Will Perkin,,6,1,6,2,,,1
+31/12/2020,Eaton,Jack,,Will Sanders,,6,1,,,,,1
+31/12/2020,Eaton,Tom,,Joel,,5,7,3,6,,,2
+01/12/2020,Eaton,Dave,,Will Sanders,,6,3,,,,,1
